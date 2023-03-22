@@ -1,0 +1,12 @@
+org\example\WalletPreviewEntity.class
+org\example\WebHookImpl.class
+org\example\TestRequest.class
+org\example\WebHookRepo.class
+org\example\WebHookController.class
+org\example\WebHookRequest.class
+org\example\utils\Test.class
+org\example\WebHookService.class
+org\example\WebHookApp.class
+org\example\WebhookDTO.class
+org\example\WalletPreviewDTO.class
+org\example\WebHook.class
