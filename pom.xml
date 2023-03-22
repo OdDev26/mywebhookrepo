@@ -8,11 +8,11 @@
         <version>2.4.8</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.persistafrica</groupId>
-    <artifactId>pa-authentication-service</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>pa-authentication-service</name>
-    <description>Persist Africa Authentication Service</description>
+    <groupId>com.example</groupId>
+    <artifactId>mywehookproj</artifactId>
+    <version>0.0.1</version>
+    <name>mywehookproj</name>
+    <description>My Webhook Service</description>
     <properties>
         <java.version>1.8</java.version>
         <spring-cloud.version>2020.0.4</spring-cloud.version>
